@@ -1,0 +1,11 @@
+Asset_ID,Type,Owner,OS,Patch_Status,Criticality,Location
+AST-001,Router,IT_Admin,Cisco_IOS,Outdated,High,Server_Room
+AST-002,Server,DBA,Linux,Up_to_date,High,Data_Center
+AST-003,POS,Sales,Windows,Outdated,Medium,Store_Front
+AST-004,Laptop,Manager,Windows,Up_to_date,Low,Back_Office
+AST-005,Firewall,Sec_Admin,FortiOS,Up_to_date,High,Server_Room
+AST-006,POS,Sales,Windows,Up_to_date,Medium,Store_Front
+AST-007,Camera,Security,Linux,Outdated,Low,Entrance
+AST-008,Server,App_Team,Windows,Outdated,High,Data_Center
+AST-009,Laptop,HR,macOS,Up_to_date,Low,Back_Office
+AST-010,Switch,IT_Admin,Cisco_NX-OS,Up_to_date,Medium,Server_Room

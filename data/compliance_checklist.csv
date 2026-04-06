@@ -1,0 +1,9 @@
+Control_ID,Control_Name,Status,Remarks
+CC-01,Firewall rules updated quarterly,Pass,Rules reviewed last month
+CC-02,MFA enforced for all privileged users,Fail,DBA and SysAdmin missing MFA
+CC-03,Monthly vulnerability scans,Pass,Scans automated via Nessus
+CC-04,Critical patches applied within 14 days,Fail,Multiple critical systems are outdated
+CC-05,Data backups performed daily,Pass,Automated to AWS S3
+CC-06,Annual cybersecurity training,Partial,75% of staff completed training
+CC-07,Physical access restricted,Pass,Biometrics used for server room
+CC-08,Strong password policy enforced,Fail,No minimum length enforced on POS systems

@@ -1,0 +1,9 @@
+User,Role,MFA_Enabled,Last_Login,Privilege_Level
+admin1,Admin,Yes,2023-10-06 08:30:00,High
+dba1,Database_Admin,No,2023-10-05 14:15:00,High
+sales1,Sales_Rep,Yes,2023-10-06 09:00:00,Low
+sales2,Sales_Rep,No,2023-10-04 10:20:00,Low
+manager,Store_Manager,Yes,2023-10-06 08:45:00,Medium
+hr1,HR_Exec,Yes,2023-10-05 11:10:00,Medium
+sec1,Security_Analyst,Yes,2023-10-06 07:50:00,High
+sysadmin,SysAdmin,No,2023-10-02 16:30:00,High
